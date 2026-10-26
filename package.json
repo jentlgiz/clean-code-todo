@@ -1,5 +1,5 @@
 {
-    "name": "clean-code-todo",
+  "name": "clean-code-todo",
   "scripts": {
     "lint": "eslint .",
     "format": "prettier --write ."
